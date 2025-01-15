@@ -16,5 +16,5 @@ This project uses the **Tweepy API** to fetch Twitter hashtags and check for key
 ## Installation:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repository.git
-   cd your-repository
+   git clone [https://github.com/your-username/your-repository.git](https://github.com/Chandigarh-University-Gharuan-Ludiana/winter-domain-camp-project-ashish0719.git)
+  
